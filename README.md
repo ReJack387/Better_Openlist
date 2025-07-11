@@ -1,4 +1,4 @@
-# Better_Alist  
+# Better_Openlist  
 
 * 半透明化目录背景  
 
